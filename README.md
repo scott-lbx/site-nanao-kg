@@ -1,5 +1,7 @@
 # site-nanao-kg：南澳知識圖譜
 
+<!-- hero --><p align="center"><img src="docs/assets/hero.png" alt="site-nanao-kg" width="860"></p>
+
 Klesan 群人文地景數位典藏的單頁知識圖譜應用，React 加 D3 Canvas 力導向圖，資料來源為 Google Sheets 流程。
 
 ## 狀態
